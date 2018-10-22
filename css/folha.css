@@ -108,7 +108,7 @@ div.projeto div.descricao{height: 50%; position: relative; top:60%; width: 100%;
 div.projeto div.descricao h3{margin-bottom: 30px;}
 div.projeto div.descricao p{margin: 0;}
 
-div.trabalho div.descricao{height: 50%; position: relative; top:60%; width: 100%; text-align: left; padding: 10px; color: #23293b;}
+div.trabalho div.descricao{height: 50%; position: relative; top:60%; width: 100%; text-align: left; padding: 34px; color: #23293b;}
 div#coolab-trabalhos a.pure-button{margin-top: 20px; border-radius: 25px;margin-bottom: 40px;background-color: #f9005b; float: right;}
 div.trabalho div.descricao h3{color:#23293b}
 
@@ -150,3 +150,50 @@ div#coolab-footer ul li{float: left; margin-left: 10px;list-style: none;}
 div#coolab-footer ul li a{text-decoration: none;}
 div#coolab-footer div.social-logo{float: left; width: 50px; height: 50px; margin-left: 10px; border-radius: 30px; background: #004D54; }
 div.footer{position: unset;}
+
+/* css turma reprograma */
+
+
+/* sessão quem somos */
+.container-quemsomos{
+padding: 2.5rem;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+
+  }
+  
+  ul li:before {
+    content: '•';
+ 
+    color: #44B8A5;/* cor da bolinha */
+   }
+
+
+   
+   /* .coolab-trabalhos-icon-apoiar img{
+    width: 24vh;
+    height: 14vh;} */
+   /* }
+   .coolab-trabalhos-icon-conectar img{
+   width: 16vh;
+    height: 15vh;
+}
+   .coolab-trabalhos-imagesicon img{
+       display: flex;
+   } */
+/* 
+   .coolab-trabalhos-imagesicon{
+       width: 30px;;
+   } */
+
+   .coolab-trabalhos-imagesicon{
+      height: 300px;
+   }
+   .coolab-trabalhos-imagesicon  img{  width: 55%;
+   
+
+   }
